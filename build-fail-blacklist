@@ -1,1 +1,1 @@
- recipes/vsearch
+ # This list can be used to prevent broken packages to be build.
