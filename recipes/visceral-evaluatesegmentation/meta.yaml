@@ -13,8 +13,8 @@ build:
 
 requirements:
   build:
-  - itk
   - vtk
+  - itk
   - cmake
 
   run:
